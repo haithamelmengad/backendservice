@@ -1,0 +1,6 @@
+{
+    "type" : "memory",
+    "threshold" : "90000",
+    "action" : "email",
+    "message" : "Memory is at maximum"
+} 

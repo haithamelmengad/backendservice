@@ -12,7 +12,7 @@
     {
         "name": "host1",
         "type": "memory",
-        "value": 750000
+        "value": 91000
     },
     {
         "name": "kafka1",
